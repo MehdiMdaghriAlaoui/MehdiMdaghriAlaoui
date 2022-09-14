@@ -1,5 +1,12 @@
 Hi 👋 My name is Mehdi Alaoui
-=============================Full Stuck Devlopper--------------------Software developer and tech enthusiast* ✉️  You can contact me at [mr.alaoui@hotmail.com](mailto:mr.alaoui@hotmail.com)
+=============================
+
+Full Stuck Devlopper
+--------------------
+
+Software developer and tech enthusiast
+
+*   ✉️  You can contact me at [mr.alaoui@hotmail.com](mailto:mr.alaoui@hotmail.com)
 
 ### Skills
 
