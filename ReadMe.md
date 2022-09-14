@@ -1,12 +1,13 @@
 Hi 👋 My name is Mehdi Alaoui
 =============================
 
-Full Stuck Devlopper
+Full Stuck developer
 --------------------
 
 Software developer and tech enthusiast
 
 *   ✉️  You can contact me at [mr.alaoui@hotmail.com](mailto:mr.alaoui@hotmail.com)
+*   🧠  I'm learning blockchain technology
 
 ### Skills
 
